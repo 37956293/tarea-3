@@ -1,0 +1,1 @@
+SELECT * FROM tarea3.empleados;
